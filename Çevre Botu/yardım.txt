@@ -1,0 +1,7 @@
+"Komutlar"
+
+/Çevre_Kirliliği_Nedir --> Size Çevre Kirliliği Hakkında Bilgi Verir.
+/Çevre_Kirliliğini_Nasıl_Önleriz --> Çevre Kirliliğinin Nasıl Önleneceği Hakkında Bilgi Verir.
+/Çevre_Kirliliği_Hakkında_Görsel --> Bot Size Çevre Kirliliği Hakkında Görsel Gönderir
+
+
